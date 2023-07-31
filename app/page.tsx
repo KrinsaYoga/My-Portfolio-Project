@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import Navbar from './Navbar'
 import Container from './Container'
 import Skills from './Skills'
@@ -7,7 +6,7 @@ import ContactMe from './ContactMe'
 
 export default function Home() {
   return (
-    <div className='max-w-[1280px]'>
+    <div className='max-w-[1280px] mx-auto  '>
       <div className='w-11/12 mx-auto pt-4 mt-8'>
         <Navbar/>
       </div>

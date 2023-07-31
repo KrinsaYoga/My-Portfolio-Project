@@ -1,5 +1,5 @@
 import React from 'react'
-import {AiOutlineTwitter, AiOutlineGithub} from "react-icons/ai"
+import {AiOutlineGithub} from "react-icons/ai"
 import {GrInstagram} from "react-icons/gr"
 import {AiOutlineWhatsApp} from "react-icons/ai"
 
@@ -29,7 +29,7 @@ const Container = (props) => {
                         <li><a href="https://wa.me/6287703274250" className='hover:opacity-100 opacity-75 transition ease-in duration-150'>
                             <AiOutlineWhatsApp size={26}/></a></li>
                     </ul>
-                    <a href="https://send-emailto:" className='px-4 py-[5px] whitespace-nowrap transition ease-in duration-150 
+                    <a href='#ContactMe' className='px-4 py-[5px] whitespace-nowrap transition ease-in duration-150 
                     bg-neutral-700 hover:bg-neutral-600 rounded-2xl border-[0.5] border-[#363636]'>Email me</a>
                 </div>
             </div>
