@@ -9,16 +9,16 @@ const About = (props: Props) => {
         <div>
           <h1 className='text-4xl font-bold mb-6'>About Me</h1>
           <p className='text-lg'>
-          Hi there! My name is Krisna, maybe it's too common, so call me Krisna Yoga.
+          Hi there! My name is Krisna, maybe its too common, so call me Krisna Yoga.
           </p>
           <p className='text-lg mt-4'>
           I am a student at SMK TI Bali Global Denpasar, and I started learning programming just one year ago.
           </p>
           <p className='text-lg mt-4'>
-          Why did I learn programming? It's because I got motivated when I saw the rapid development in the IT technology field.
+          Why did I learn programming? Its because I got motivated when I saw the rapid development in the IT technology field.
           </p>
           <p className='text-lg mt-4'>
-          Regarding IT knowledge, I'm still a beginner, but I have a strong determination to learn and compete 😉
+          Regarding IT knowledge, Im still a beginner, but I have a strong determination to learn and compete 😉
           </p>
         </div>
         <div>
@@ -37,7 +37,7 @@ const About = (props: Props) => {
     <p className='font-bold'>2022 - 2023</p>
   </div>
   <div className='w-3/4'>
-    <p >It's a high school focused on Information Technology (IT).  <a href="https://goo.gl/maps/hbhx13LZoayBoQt58" className='px-4 py-2 rounded-sm text-blue-700 hover:text-green-500'>[Location]</a></p>
+    <p >Its a high school focused on Information Technology (IT).  <a href="https://goo.gl/maps/hbhx13LZoayBoQt58" className='px-4 py-2 rounded-sm text-blue-700 hover:text-green-500'>[Location]</a></p>
   </div>
 </div>
 
@@ -59,7 +59,7 @@ const About = (props: Props) => {
     <p className='font-bold'>2019 - 2022</p>
   </div>
   <div className='w-3/4'>
-    <p>It's a favorite school in my district,  <a href="https://goo.gl/maps/gvYwNUc3VfZDgDqL8" className='px-4 py-2 rounded-sm text-blue-700 hover:text-green-500'>[Location]</a></p>
+    <p>Its a favorite school in my district,  <a href="https://goo.gl/maps/gvYwNUc3VfZDgDqL8" className='px-4 py-2 rounded-sm text-blue-700 hover:text-green-500'>[Location]</a></p>
   </div>
 </div>
 
@@ -80,7 +80,7 @@ const About = (props: Props) => {
     <p className='font-bold'>2013 - 2019</p>
   </div>
   <div className='w-3/4'>
-    <p>It's just regular elementary shcool</p>
+    <p>Its just regular elementary shcool</p>
   </div>
 </div>
 
